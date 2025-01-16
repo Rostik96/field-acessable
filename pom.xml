@@ -3,12 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>dev.rost</groupId>
-  <artifactId>field-acessable</artifactId>
+  <artifactId>field-accessible</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
 
-  <name>field-acessable</name>
-  <url>http://maven.apache.org</url>
+  <name>field-accessible</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -22,6 +20,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
   <build>
     <plugins>
       <plugin>
